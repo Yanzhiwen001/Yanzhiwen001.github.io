@@ -1,7 +1,9 @@
 # Welcome
-see my CV under Yanzhiwen001.github.io
-undergraduate course projects were named as their repo names.
-have fun here
-# to the PHILOSOPHER's world ！
-my name is Yanzhiwen  
 
+See my CV under Yanzhiwen001.github.io  
+Undergraduate course projects are named as their repo names  
+
+# to the PHILOSOPHER's world ！
+
+I'm Yanzhiwen  
+HAVE FUN HERE
