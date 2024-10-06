@@ -1,7 +1,6 @@
-# Welcome to the PHILOSOPHER's world ！
+### Zhiwen Yan
 
-See my CV under Yanzhiwen001.github.io  
-Undergraduate course projects are named as their repo names  
+Bachelor in Bioinformatics @ Zhejiang University
+Master in Computational Biology @ Carneigr Mellon University
 
-I'm Yanzhiwen  
 HAVE FUN HERE
